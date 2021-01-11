@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "outDir": "dist",
+    "sourceMap": true,
+    "module": "esnext",
+    "target": "es2019",
+    "strict": true,
+    "moduleResolution": "node",
+    "removeComments": true
+  },
+  "include": ["src"]
+}
